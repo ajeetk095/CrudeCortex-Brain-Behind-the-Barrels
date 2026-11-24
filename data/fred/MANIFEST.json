@@ -1,0 +1,41 @@
+{
+  "generated_utc": "2026-11-24T16:19:38Z",
+  "note": "Retrieval date of the original bundled files is unknown; checksums identify the files in use.",
+  "files": {
+    "WTISPLC": {
+      "sha256": "72df6f02618450110f239dd1072710f2079a56cd8d47f0ecd5e2f4ce38985d67",
+      "rows": 970,
+      "first": "1946-01-01",
+      "last": "2026-10-01",
+      "refreshed_this_run": false
+    },
+    "INDPRO": {
+      "sha256": "5b422a5013770990f354948bd03e4504929041c7e65797ccf78c04c1736ca813",
+      "rows": 1294,
+      "first": "1919-01-01",
+      "last": "2026-10-01",
+      "refreshed_this_run": false
+    },
+    "CPIENGSL": {
+      "sha256": "c87dde3c54141f551576fbbbae750592db75f4546bc819bb8e7d2afbb8505844",
+      "rows": 837,
+      "first": "1957-01-01",
+      "last": "2026-10-01",
+      "refreshed_this_run": false
+    },
+    "DTWEXBGS": {
+      "sha256": "816a2678ffdbac9276fce6b5c8e380912488cdb3de09cae27eb7a3c28aab6b0b",
+      "rows": 5236,
+      "first": "2006-01-02",
+      "last": "2026-11-20",
+      "refreshed_this_run": false
+    },
+    "VIXCLS": {
+      "sha256": "5c870c8d8704e157b844b9f4a1f97266818e820106085db5cb28ed3000ffa159",
+      "rows": 5793,
+      "first": "2004-01-02",
+      "last": "2026-11-20",
+      "refreshed_this_run": false
+    }
+  }
+}

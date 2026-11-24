@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8
+# Optional, development only: independent cross-check of the Bayesian-network engine
+pgmpy>=1.0
