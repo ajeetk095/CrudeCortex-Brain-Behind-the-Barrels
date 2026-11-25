@@ -80,4 +80,4 @@ st.markdown(f"**{C.COURSE}** · {C.ASSIGNMENT} · {C.GROUP}  \n"
             f"**Submitted report period:** January 2005 – December 2024 source window "
             f"(effective modelling sample {ds.fmt_range('features') if ds.is_report_window else 'Jan 2007 – Dec 2024'}; see Data & Indicators for why).  \n"
             f"**Developed by** [Ajeet Kumar]({C.DEVELOPER['github']}) · "
-            f"[Source code]({C.['CrudeCortex-Brain-Behind-the-Barrels-']})")
+            f"[Source code]({C.'CrudeCortex Brain-Behind-the-Barrels['github']})")
